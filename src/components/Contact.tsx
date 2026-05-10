@@ -1,6 +1,6 @@
 import { motion, useInView } from 'framer-motion'
 import { useRef, useState } from 'react'
-import emailjs from 'emailjs-com'
+import emailjs from '@emailjs/browser'
 import {
   Mail,
   Linkedin,
