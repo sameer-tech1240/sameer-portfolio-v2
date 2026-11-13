@@ -30,3 +30,9 @@ https://sameer-siddiqui.vercel.app
 - GitHub: https://github.com/sameer-tech1240
 - Portfolio: https://sameer-siddiqui.vercel.app
 
+## Current Focus
+
+- Improving Java and Spring Boot backend development skills
+- Building RESTful APIs with secure authentication
+- Learning Microservices and message-driven architecture
+- Practicing problem-solving and Java coding
